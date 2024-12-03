@@ -1,1 +1,2 @@
 sunum için açıldı
+sunuma yardımcı olmak için yazılan bir satır
