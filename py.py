@@ -1,3 +1,3 @@
-print("yaşınızı giriniz")
-yas = input()
-print(yas +" "+" yaşındasınız")
+print("adınızı giriniz")
+isim = input()
+print("adınız"+" "+isim)
